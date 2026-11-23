@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+INAJA+BAND+OF+DIEGUENO+MISSION+INDIANS+O",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+INAJA+BAND+OF+DIEGUENO+MISSION+INDIANS+O",
+  "title": "Federal Register - CA INAJA BAND OF DIEGUENO MISSION INDIANS O",
+  "fetched_at": "2026-11-23T17:56:28.078847Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 138433,
+  "sha256": "b06d51dc609ac7030fd0df4e339b8bd71e69eb972a0b3b8139effdaca3941fdd",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
